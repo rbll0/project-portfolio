@@ -81,3 +81,8 @@ a{
     font: var(--text-md-stroke)
 }
 
+strong {
+    font: var(--text-md);
+    color: var(--gray-500);
+}
+
