@@ -62,7 +62,7 @@ h2 {
 
 h3 {
     font: var(--title-md);
-    color: var(--color-gray-600);
+    color: var(--gray-600);
 }
 
 h4 {
