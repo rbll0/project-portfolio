@@ -9,7 +9,7 @@
     flex-wrap: wrap;
     justify-content: center;
     gap: 24px ;
-    
+    margin-bottom: 144px;
 }
 
 .card {
@@ -26,7 +26,6 @@
 }
 
 .header {
-    padding-top: 250px;
     margin-bottom: 56px;
     align-items: center;
 }
@@ -45,3 +44,23 @@ p {
 }
 
 
+#my-services {
+  background-color: var(--gray-100);
+  padding: 88px 24px 120px 24px;
+}
+#services {
+    margin-inline: auto;
+    padding-top: 56px;
+    max-width: 888px;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.card-service {
+    text-align: left;
+    width: 280px;
+    border: 2px solid var(--gray-200);
+    border-radius: 12px;
+    padding: 20px;
+}

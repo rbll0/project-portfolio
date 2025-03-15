@@ -8,6 +8,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
+        
 }
 
 #intro {
@@ -120,6 +121,7 @@ h1,h2{
     background-color: transparent;
     border: none;
     color: var(--gray-500);
+
 }
 
 
